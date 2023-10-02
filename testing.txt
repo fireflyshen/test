@@ -3,16 +3,8 @@ Hello
 wao
 main
 
-<<<<<<< HEAD
-change 
-=======
-Change
 
-main
 
-Hello
 
-HI
+TESTING
 
-HEY
->>>>>>> testing
