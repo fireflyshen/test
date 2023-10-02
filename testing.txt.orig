@@ -2,9 +2,17 @@ testing HELLO
 Hello
 wao
 main
+<<<<<<< HEAD
+
+
+
+
+TESTING
+
+=======
 TESTING
 Change
 File
 Change2
 File2
-
+>>>>>>> testing
