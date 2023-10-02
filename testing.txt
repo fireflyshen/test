@@ -3,4 +3,16 @@ Hello
 wao
 main
 
+<<<<<<< HEAD
 change 
+=======
+Change
+
+main
+
+Hello
+
+HI
+
+HEY
+>>>>>>> testing
